@@ -17,8 +17,9 @@ To download the torrent file, please copy and paste the following magnet link in
 
 To access the leaked passwords using the magnet link provided:
 
-1. Copy the magnet link: `magnet:?xt=urn:btih:866e2005a716f35e2b7d534c322e0c98deef2549&dn=RockYou2024_size_sorted.7z&xl=11308476707&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce`
-2. Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
+1. Copy the magnet link: 
+`magnet:?xt=urn:btih:866e2005a716f35e2b7d534c322e0c98deef2549&dn=RockYou2024_size_sorted.7z&xl=11308476707&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce`
+3. Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
 
 ## Repository Contents
 
@@ -26,6 +27,7 @@ To access the leaked passwords using the magnet link provided:
 
 ## Note about the Magnet Link
 
+> **This is my first time starting a seed and the magnet link looks far too long and ungainly. Check back later if it is not working correctly, I will have figured it out soon enough.**
 > **The magnet link is provided for research and educational purposes only. Be aware that downloading or sharing the linked content may be illegal in your country, and it is not endorsed or supported by this repository.**
 
 ## Security Risks
