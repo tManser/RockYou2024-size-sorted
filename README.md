@@ -28,9 +28,10 @@ To access the leaked passwords using the magnet link provided:
 - **Rockyou2024 sorted.zip**: The leaked password file
 - The unzipped file has the following structure:
 >Rockyou2024 sorted/
->├── RockYou2024 1 character passwords/
 >
->│   ├── 1_Character_1.txt
+>    RockYou2024 1 character passwords/
+>
+   >│   ├── 1_Character_1.txt
 >
 >├── RockYou2024 2 character passwords/
 >
